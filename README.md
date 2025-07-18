@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=180&section=header&text=🚀%20WELCOME%20TO%20MY%20UNIVERSE%20🚀&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </div>
 
-## 🚀 Software Engineer | CS & Math @ UMass Amherst | Building the Future 
+## 🚀 Software Engineer | CS & Math @ UMass Amherst | Building the Future | Entrepreneur 
 
 ### 🛠️ Tech Arsenal
 
