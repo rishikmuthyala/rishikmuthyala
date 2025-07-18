@@ -51,19 +51,6 @@
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikmuthyala&show_icons=true&theme=radical&hide_border=true" alt="Rishik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikmuthyala&theme=radical&hide_border=true" alt="Rishik's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikmuthyala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 <div align="center">
