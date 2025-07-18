@@ -1,14 +1,5 @@
-```
-██████╗ ██╗███████╗██╗  ██╗██╗██╗  ██╗
-██╔══██╗██║██╔════╝██║  ██║██║██║ ██╔╝
-██████╔╝██║███████╗███████║██║█████╔╝ 
-██╔══██╗██║╚════██║██╔══██║██║██╔═██╗ 
-██║  ██║██║███████║██║  ██║██║██║  ██╗
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=RISHIK;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;SATELLITE+SYSTEMS" alt="Animated Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=RISHIK;" alt="Animated Name" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🚀%20WELCOME%20TO%20MY%20UNIVERSE%20🚀&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=40" />
